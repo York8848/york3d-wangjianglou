@@ -1,5 +1,7 @@
 # York3D · 望江楼（崇丽阁）
 
+[在线体验](https://york3d-wangjianglou.vercel.app) · [GitHub仓库](https://github.com/York8848/york3d-wangjianglou)
+
 成都望江楼的中英文交互式三维展示。制作人 **York**，工具 **Codex + Blender**。使用 Vite、TypeScript 和 Three.js，支持楼层显隐、透明、结构展开、剖切、室内视角和构件来源查询。
 
 这是照片辅助数字重建，非激光扫描或精确测绘。官方公布总高 27.9m；四层，下方上八角。上层内部、隐藏连接和楼梯路径保留推定标签。模型正面不代表地理北向。
@@ -18,6 +20,8 @@ npm run dev -- --port 4188
 ## Vercel
 
 导入本仓库，Root Directory 保持仓库根目录。`vercel.json` 配置依赖安装、构建和输出目录；无需环境变量或后端。站点使用 WebGL2，首次加载低细节模型，再逐层补充高细节资源。
+
+当前生产站点已通过 Vercel CLI 发布。GitHub 自动部署连接尚未启用；更新后可从仓库根目录执行 `vercel deploy --prod --scope york8848`。
 
 ## 架构与原理
 
