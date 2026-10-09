@@ -1,0 +1,12 @@
+{
+  "name": "york3d-wangjianglou",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "npm --prefix web run build",
+    "dev": "npm --prefix web run dev --"
+  }
+}

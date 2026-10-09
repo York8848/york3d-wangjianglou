@@ -1,0 +1,78 @@
+[
+  {
+    "id": "DSC06027",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06027.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06027.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "date_accessed": "2026-10-08",
+    "file": "DSC06027.jpg",
+    "grade": "C",
+    "use": "photo estimation, not measured dimensions"
+  },
+  {
+    "id": "DSC06030",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06030.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06030.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "date_accessed": "2026-10-08",
+    "file": "DSC06030.jpg",
+    "grade": "C",
+    "use": "photo estimation, not measured dimensions"
+  },
+  {
+    "url": "/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06034.jpg",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "DSC06036",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06036.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06036.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "date_accessed": "2026-10-08",
+    "file": "DSC06036.jpg",
+    "grade": "C",
+    "use": "photo estimation, not measured dimensions"
+  },
+  {
+    "url": "/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06101.jpg",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "url": "/wiki/File:Wangjiang_Tower_2.jpg",
+    "error": "'NoneType' object has no attribute 'group'"
+  },
+  {
+    "id": "DSC06023",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_sign_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06023.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Wangjiang_Tower_sign_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06023.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "date_accessed": "2026-10-08",
+    "file": "DSC06023.jpg",
+    "grade": "C",
+    "use": "photo estimation, not measured dimensions"
+  },
+  {
+    "id": "DSC06034",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06034.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06034.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "file": "DSC06034.jpg",
+    "date_accessed": "2026-10-08",
+    "grade": "C"
+  },
+  {
+    "id": "DSC06101",
+    "url": "https://commons.wikimedia.org/wiki/File:Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu,_China_-_DSC06101.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wangjiang_Tower_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC06101.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "author": "Daderot",
+    "license": "CC0-1.0",
+    "file": "DSC06101.jpg",
+    "date_accessed": "2026-10-08",
+    "grade": "C"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "revision": "V008",
+  "distance": 75,
+  "layers": [
+    {
+      "floor": 0,
+      "high": "layers/floor-0-high.glb",
+      "low": "layers/floor-0-low.glb",
+      "highBytes": 28264,
+      "lowBytes": 26396
+    },
+    {
+      "floor": 1,
+      "high": "layers/floor-1-high.glb",
+      "low": "layers/floor-1-low.glb",
+      "highBytes": 3149132,
+      "lowBytes": 2891024
+    },
+    {
+      "floor": 2,
+      "high": "layers/floor-2-high.glb",
+      "low": "layers/floor-2-low.glb",
+      "highBytes": 1291104,
+      "lowBytes": 1038784
+    },
+    {
+      "floor": 3,
+      "high": "layers/floor-3-high.glb",
+      "low": "layers/floor-3-low.glb",
+      "highBytes": 1674704,
+      "lowBytes": 1260696
+    },
+    {
+      "floor": 4,
+      "high": "layers/floor-4-high.glb",
+      "low": "layers/floor-4-low.glb",
+      "highBytes": 1622836,
+      "lowBytes": 1229772
+    }
+  ]
+}
