@@ -21,7 +21,7 @@ npm run dev -- --port 4188
 
 导入本仓库，Root Directory 保持仓库根目录。`vercel.json` 配置依赖安装、构建和输出目录；无需环境变量或后端。站点使用 WebGL2，首次加载低细节模型，再逐层补充高细节资源。
 
-当前生产站点已通过 Vercel CLI 发布。GitHub 自动部署连接尚未启用；更新后可从仓库根目录执行 `vercel deploy --prod --scope york8848`。
+Vercel 已连接 GitHub 仓库：推送或合并到 `main` 后自动构建并更新正式网站；其他分支使用预览部署。构建设置以 `vercel.json` 为准。也可从仓库根目录执行 `vercel deploy --prod --scope york8848` 手动发布。
 
 ## 架构与原理
 
