@@ -6,8 +6,8 @@
       "floor": 0,
       "high": "layers/floor-0-high.glb",
       "low": "layers/floor-0-low.glb",
-      "highBytes": 95620,
-      "lowBytes": 93748
+      "highBytes": 28264,
+      "lowBytes": 26396
     },
     {
       "floor": 1,
@@ -39,5 +39,6 @@
     }
   ],
   "watermark": "制作人：York",
-  "watermark_revision": "V012"
+  "watermark_revision": "V013",
+  "watermark_placement": "viewport overlay only; no entrance geometry"
 }
